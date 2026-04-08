@@ -1,1 +1,1 @@
-# SKU001
+# SoundLab-GT1355
